@@ -13,9 +13,9 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-vitor-aparecido-carpim-de-souza-303934276/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/x64vbhv)
 &nbsp;
-[![Profile Views](https://komarev.com/ghpvc/?username=joaocarpim&color=0d1b2a&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/joaocarpim)
+[![Profile Views](https://komarev.com/ghpvc/?username=x64vbhv&color=0d1b2a&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/x64vbhv)
 &nbsp;
 ![Open to Work](https://img.shields.io/badge/🟢_Open_to_Internship-0d1b2a?style=for-the-badge)
 
@@ -139,32 +139,32 @@ vaibhav = {
 
 ### ⚡ Backend
 
-![Python](https://skillicons.dev/icons?i=python)
-![Flask](https://skillicons.dev/icons?i=flask)
-![FastAPI](https://skillicons.dev/icons?i=fastapi)
+<img src="https://skillicons.dev/icons?i=python" width="28"/> <img src="https://img.shields.io/badge/Python-242938?style=for-the-badge&logo=python&logoColor=3776AB"/>
+<img src="https://skillicons.dev/icons?i=flask" width="28"/> <img src="https://img.shields.io/badge/Flask-242938?style=for-the-badge&logo=flask&logoColor=3776AB"/>
+<img src="https://skillicons.dev/icons?i=fastapi" width="28"/> <img src="https://img.shields.io/badge/FastAPI-242938?style=for-the-badge&logo=fastapi&logoColor=3776AB"/>
 
 ---
 
 ### 🗄 Databases
 
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![Postgres](https://skillicons.dev/icons?i=postgres)
-![MySQL](https://skillicons.dev/icons?i=mysql)
+<img src="https://skillicons.dev/icons?i=mongodb" width="28"/> <img src="https://img.shields.io/badge/MongoDB-242938?style=for-the-badge&logo=mongodb&logoColor=3776AB"/>
+<img src="https://skillicons.dev/icons?i=postgres" width="28"/> <img src="https://img.shields.io/badge/Postgres-242938?style=for-the-badge&logo=postgres&logoColor=3776AB"/>
+<img src="https://skillicons.dev/icons?i=mysql" width="28"/> <img src="https://img.shields.io/badge/MySQL-242938?style=for-the-badge&logo=mysql&logoColor=3776AB"/>
 
 ---
 
 ### 🛠 Tools
 
-![Git](https://skillicons.dev/icons?i=git)
-![Docker](https://skillicons.dev/icons?i=docker)
-![Linux](https://skillicons.dev/icons?i=linux)
+<img src="https://skillicons.dev/icons?i=git" width="28"/> <img src="https://img.shields.io/badge/Git-242938?style=for-the-badge&logo=git&logoColor=3776AB"/>
+<img src="https://skillicons.dev/icons?i=docker" width="28"/> <img src="https://img.shields.io/badge/Docker-242938?style=for-the-badge&logo=docker&logoColor=3776AB"/>
+<img src="https://skillicons.dev/icons?i=linux" width="28"/> <img src="https://img.shields.io/badge/Linux-242938?style=for-the-badge&logo=linux&logoColor=3776AB"/>
 
 ---
 
 ### 🌱 Currently Learning
 
-![React](https://skillicons.dev/icons?i=react)
-![Tensorflow](https://skillicons.dev/icons?i=tensorflow)
+<img src="https://skillicons.dev/icons?i=react" width="28"/> <img src="https://img.shields.io/badge/React_Native-242938?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://skillicons.dev/icons?i=tensorflow" width="28"/> <img src="https://img.shields.io/badge/Tensorflow-242938?style=for-the-badge&logo=tensorflow&logoColor=61DAFB"/>
 
 ---
 
@@ -176,7 +176,7 @@ vaibhav = {
 [vaibhavchandra2007@gmail.com](mailto:vaibhavchandra2007@gmail.com)
 
 💼 **LinkedIn**
-[https://linkedin.com/in/vaibhav-chandra-dev](https://linkedin.com/in/x64vbhv)
+[https://linkedin.com/in/x64vbhv](https://linkedin.com/in/x64vbhv)
 
 📷 **Instagram**
 [https://instagram.com/diversevariant](https://instagram.com/diversevariant)
