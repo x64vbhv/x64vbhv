@@ -1,22 +1,23 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Vaibhav%20Chandra&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="header"/>
+<img src="./Header.svg" width="100%" alt="header"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Sora&weight=700&size=30&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hey+👋+I'm+Vaibhav;Backend+Developer;Python+%26+API+Builder;Automation+%7C+AI+Projects" alt="Typing" />
+<!-- TYPING HERO -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Sora&weight=700&size=32&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hey+%F0%9F%91%8B+I'm+Vaihhav+Chandra;Backend+Developer;Python+%26+API+Builder;Automation+%7C+AI+Projects" alt="Typing" />
 
 <br/>
 
 <p align="center">
-  <em>Building useful software · Backend systems · Automation tools</em>
+  <em>Building meaningful software · Backend systems · Automation tools</em>
 </p>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/x64vbhv)
- 
-[![Profile Views](https://komarev.com/ghpvc/?username=x64vbhv\&color=0d1b2a\&style=for-the-badge\&label=PROFILE+VIEWS)](https://github.com/x64vbhv)
- 
-![Focus](https://img.shields.io/badge/Focus-Python_Backend-0d1b2a?style=for-the-badge)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-vitor-aparecido-carpim-de-souza-303934276/)
+&nbsp;
+[![Profile Views](https://komarev.com/ghpvc/?username=joaocarpim&color=0d1b2a&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/joaocarpim)
+&nbsp;
+![Open to Work](https://img.shields.io/badge/🟢_Open_to_Internship-0d1b2a?style=for-the-badge)
 
 </div>
 
@@ -102,8 +103,8 @@ vaibhav = {
 
 <div align="center">
 
-<a href="https://github.com/x64vbhv/DispoEMailAPI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=x64vbhv&repo=DispoEMailAPI&theme=tokyonight"/>
+<a href="https://github.com/x64vbhv/Disposable-EMail-Detection-API">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=x64vbhv&repo=Disposable-EMail-Detection-API&theme=tokyonight"/>
 </a>
 
 <a href="https://github.com/x64vbhv/TinyShare">
