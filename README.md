@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./Header.svg" width="100%" alt="header"/>
+<img src="./svgs/Header.svg" width="100%" alt="header"/>
 
 <!-- TYPING HERO -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Sora&weight=700&size=32&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hey+%F0%9F%91%8B+I'm+Vaihhav+Chandra;Backend+Developer;Python+%26+API+Builder;Automation+%7C+AI+Projects" alt="Typing" />
@@ -187,6 +187,6 @@ vaibhav = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
+<img src="./svgs/footer.svg" width="100%" alt="header"/>
 
 </div>
