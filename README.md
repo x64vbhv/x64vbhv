@@ -1,92 +1,191 @@
-<!-- HERO SECTION -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&center=true&vCenter=true&duration=1400&pause=1000&width=435&lines=Hey+👋,+I'm+Vaibhav;Backend+Developer+%26+API+Builder;Student+%26+Tech+Enthusiast" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/VaibhavChandra/VaibhavChandra/blob/main/assets/banner.gif" alt="Banner" width="100%"/>
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/vaibhav-chandra-dev">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:vaibhavchandra2007@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/diversevariant">
-    <img src="https://img.shields.io/badge/Instagram-1DA1F2?style=for-the-badge&logo=Instagram&logoColor=white"/>
-  </a>
-</p>
-
----
-
 <div align="center">
 
-## 👨‍💻 About Me
-Hi, I’m **Vaibhav Chandra** from **India** 🇮🇳 — a passionate **Backend Developer & API Builder**.  
-I specialize in **Python**, backend systems, and automation tools, often building projects from scratch and deploying them for real-world use.  
-Outside of coding, I love exploring **AI projects, automation ideas, and unique startup concepts**.  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Vaibhav%20Chandra&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="header"/>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Sora&weight=700&size=30&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hey+👋+I'm+Vaibhav;Backend+Developer;Python+%26+API+Builder;Automation+%7C+AI+Projects" alt="Typing" />
 
-## 🛠 Tech Stack
-**Backend & APIs**  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) 
-![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)  
+<br/>
 
-**Tools & Platforms**  
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) 
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) 
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)  
-
-**Currently Learning**  
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![AI/ML](https://img.shields.io/badge/AI%2FML-FF6F00?logo=tensorflow&logoColor=white)  
-
----
-
-## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=evilgeek&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=evilgeek&theme=tokyonight" height="160"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evilgeek&layout=compact&theme=tokyonight" height="160"/>
+  <em>Building useful software · Backend systems · Automation tools</em>
 </p>
 
----
+<br/>
 
-## 🚀 Featured Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [College Predictor Web App](https://evilgeek.github.io/CollegePred/) | Lightweight engineering college predictor with branch/category/round/gender filters & 1-click PDF export. Built for students, from open data. | Python, Web Scraping |
-| [Review My College](https://reviewmycollege.onrender.com/) | Platform for students to explore & review Indian colleges using AISHE data. Includes LinkedIn API integration & web scraping. | Python, Flask, SQLAlchemy, REST APIs |
-| [DispoEMailAPI](https://github.com/vaibhavchandra/DispoEMailAPI) | AI-powered disposable & public email domain validator & checker. | Python, Flask |
-| [Laravel ENV Scan Bot](https://github.com/EvilGeek/LaravelScanBot) | A Telegram bot designed to generate random IPs/Domains and conduct scans for sensitive or "juicy" credentials. | Pyrogram, Requests |
-| [TinyShare](https://github.com/EvilGeek/TinyShare) | A lightweight file sharing web-app, using telegram as storage | Flask, MongoDB |
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/x64vbhv)
+ 
+[![Profile Views](https://komarev.com/ghpvc/?username=x64vbhv\&color=0d1b2a\&style=for-the-badge\&label=PROFILE+VIEWS)](https://github.com/x64vbhv)
+ 
+![Focus](https://img.shields.io/badge/Focus-Python_Backend-0d1b2a?style=for-the-badge)
 
 </div>
 
 ---
 
-## 📅 Current Activities
-- 🔭 Currently working on: **A micro-SaaS**
-- 🌱 Currently learning: **React + AI integrations**
-- 👯 Looking to collaborate on: **Automation & AI projects**
-- 💬 Ask me about: **APIs, Python automation, deployment**
+# 🧭 Who am I
+
+```python
+vaibhav = {
+    "location": "India",
+    "role": "Backend Developer",
+
+    "main_stack": [
+        "Python",
+        "Flask",
+        "FastAPI",
+        "MongoDB",
+        "SQLAlchemy"
+    ],
+
+    "interests": [
+        "Automation tools",
+        "Micro SaaS",
+        "AI integrations",
+        "Developer tools"
+    ],
+
+    "currently_building": [
+        "AI powered apps",
+        "Developer utilities",
+        "Backend APIs"
+    ],
+
+    "philosophy": "Build useful things, ship fast, improve constantly."
+}
+```
+
+---
+
+# 🚀 Portfolio
+
+> **🎓 [College Predictor](https://github.com/x64vbhv/CollegePred/)**
+>
+> **`Python` `Web Scraping` `Data Processing`**
+>
+> Lightweight engineering college predictor with filters for branch, category, gender and counseling rounds. Built from scraped public datasets to help students estimate admission chances quickly.
+
+---
+
+> **🏫 [ReviewMyCollege](https://github.com/x64vbhv/ReviewMyCollege)**
+>
+> **`Python` `Flask` `SQLAlchemy` `REST APIs`**
+>
+> Platform for students to explore and review Indian colleges using AISHE data. Includes scraping pipelines and API integrations to organize structured information.
+
+---
+
+> **📧 [DispoEMailAPI](https://github.com/x64vbhv/DispoEMailAPI)**
+>
+> **`Python` `Flask` `DNS` `Email Validation`**
+>
+> API that detects disposable email providers and validates domains using DNS and MX record lookups.
+
+---
+
+> **🤖 [Laravel ENV Scan Bot](https://github.com/x64vbhv/LaravelScanBot)**
+>
+> **`Python` `Pyrogram` `Automation`**
+>
+> Telegram bot that scans randomly generated domains and IPs for exposed `.env` files containing credentials.
+
+---
+
+> **📂 [TinyShare](https://github.com/x64vbhv/TinyShare)**
+>
+> **`Flask` `MongoDB` `Telegram API`**
+>
+> Lightweight file sharing web app where uploaded files are stored using Telegram as the storage backend.
+
+---
+
+# ⭐ Top Repositories
+
+<div align="center">
+
+<a href="https://github.com/x64vbhv/DispoEMailAPI">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=x64vbhv&repo=DispoEMailAPI&theme=tokyonight"/>
+</a>
+
+<a href="https://github.com/x64vbhv/TinyShare">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=x64vbhv&repo=TinyShare&theme=tokyonight"/>
+</a>
+
+</div>
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+| Stats                                                                                                  | Languages                                                                                                           |
+| ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------- |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=x64vbhv\&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=x64vbhv\&theme=tokyonight) |
+
+| Profile Details                                                                                                  |
+| ---------------------------------------------------------------------------------------------------------------- |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=x64vbhv&theme=tokyonight) |
+
+| Streak                                                               |
+| -------------------------------------------------------------------- |
+| ![](https://streak-stats.demolab.com?user=x64vbhv&theme=tokyonight) |
+
+</div>
+
+---
+
+# 🗂 Tech Stack
+
+### ⚡ Backend
+
+![Python](https://skillicons.dev/icons?i=python)
+![Flask](https://skillicons.dev/icons?i=flask)
+![FastAPI](https://skillicons.dev/icons?i=fastapi)
+
+---
+
+### 🗄 Databases
+
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![Postgres](https://skillicons.dev/icons?i=postgres)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+
+---
+
+### 🛠 Tools
+
+![Git](https://skillicons.dev/icons?i=git)
+![Docker](https://skillicons.dev/icons?i=docker)
+![Linux](https://skillicons.dev/icons?i=linux)
+
+---
+
+### 🌱 Currently Learning
+
+![React](https://skillicons.dev/icons?i=react)
+![Tensorflow](https://skillicons.dev/icons?i=tensorflow)
+
+---
+
+# 📫 Contact
+
+<div align="center">
+
+📧 **Email**
+[vaibhavchandra2007@gmail.com](mailto:vaibhavchandra2007@gmail.com)
+
+💼 **LinkedIn**
+[https://linkedin.com/in/vaibhav-chandra-dev](https://linkedin.com/in/x64vbhv)
+
+📷 **Instagram**
+[https://instagram.com/diversevariant](https://instagram.com/diversevariant)
+
+</div>
 
 ---
 
 <div align="center">
-  
-## 🤝 Connect with Me
-<a href="mailto:vaibhavchandra2007@gmail.com">📧 Email</a> • 
-<a href="https://linkedin.com/in/vaibhav-chandra-dev">💼 LinkedIn</a> • 
-<a href="https://twitter.com/diversevariant">🐦 Twitter</a> • 
-<a href="https://instagram.com/diversevariant">🐻 Instagram</a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
 
 </div>
