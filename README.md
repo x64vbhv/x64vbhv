@@ -3,7 +3,7 @@
 <img src="./svgs/Header.svg" width="100%" alt="header"/>
 
 <!-- TYPING HERO -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Sora&weight=700&size=32&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hey+%F0%9F%91%8B+I'm+Vaihhav+Chandra;Backend+Developer;Python+%26+API+Builder;Automation+%7C+AI+Projects" alt="Typing" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Sora&weight=700&size=32&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hey+%F0%9F%91%8B+I'm+Vaibhav+Chandra;Backend+Developer;Python+%26+API+Builder;Automation+%7C+AI+Projects" alt="Typing" />
 
 <br/>
 
